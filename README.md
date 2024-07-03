@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andermendoza&theme=dracula&column=7" alt="Danny Guaraca" /></a> </p>
 
 <!-- BREVE DESCRIPCION -->
-- 📚 I am currently studying at [Institute Certus](https://www.certus.edu.pe/)
+- 📚 I am currently studying at [Institute Unemi ](https://www.unemi.edu.ec/index.php/faci/)
 
 - 🌱 I am currently in the race **Software Design and Development**
 
@@ -48,4 +48,4 @@
 
 Credit: [Danny Guaraca](https://github.com/andermendoza)
 
-Last Edited on: 26/09/2022
+Last Edited on: 3/07/2024
